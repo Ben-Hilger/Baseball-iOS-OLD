@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Baseball Game Tracker.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6D87424D5848AC27A397B6387713D130F5DEC004</string>
+				<key>dateExpires</key>
+				<string>5/31/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>26BC69C7PR.com.ProgGameTracker.Baseball-Game-Tracker</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>26BC69C7PR</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>26BC69C7PR.com.ProgGameTracker.Baseball-Game-Tracker</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Baseball Game Tracker.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a58d0f35-518a-43b6-91c5-48921a24f27a</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.ProgGameTracker.Baseball-Game-Tracker</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>26BC69C7PR</string>
+				<key>name</key>
+				<string>Ben Hilger</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
